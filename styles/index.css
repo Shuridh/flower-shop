@@ -228,6 +228,56 @@
     color: rgba(39, 39, 39, 0.60);
  text-align: center;
  font-size: 18px;
-
- /* margin-top: 25px; */
  }
+ #f1{
+    padding-left: 22px;
+ }
+ .price{
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+    color: #FFF;
+    margin-top: 130px;
+    background-image: url(../rose-165819_1280.jpg);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ }
+ ul li{
+    font-size: 25px;
+    font-weight: 700;
+ }
+ .list{
+    padding: 100px;
+ }
+ footer{
+    width: 1922px;
+    height: 449px;
+    margin-top: 126px;
+    background: #111010;
+    margin-top: 0;
+    text-align: center;
+    }
+    .footer-span{
+       color: #E55473;
+    }
+    .footer-title{
+       font-size: 48px;
+    font-weight: 800;
+    padding-top: 120px;
+    color: #FFF;
+    margin-bottom: 24px;
+    }
+    .footer-text{
+       color: rgba(255, 255, 255, 0.90);
+      font-size: 18px;
+     font-weight: 400;
+     line-height: 30px;
+     margin-bottom: 32px;
+    }
+    .copyright{
+       color: rgba(255, 255, 255, 0.40);
+     font-size: 16px;
+    }
+
